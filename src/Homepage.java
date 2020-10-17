@@ -18,8 +18,7 @@ public abstract class Homepage {
 
     abstract boolean logIn(String userName, String password);
     abstract boolean sendData(byte[] data);
-    abstract void logOut();
-
+   
 
 }
 
